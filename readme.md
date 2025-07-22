@@ -21,5 +21,5 @@ Este proyecto es una API REST construida con Node.js y Express, que permite admi
 1. Cloná el repositorio:
 
 ```bash
-git clone https://github.com/ronaldsantov/backend-api-products.git
+git clone https://github.com/ronaldsantosv/backend-api-products.git
 cd backend-api-products
